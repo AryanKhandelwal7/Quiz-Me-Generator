@@ -22,9 +22,9 @@ A simple prototype that converts study documents into interactive quizzes using 
 
 Create `.env` file in backend folder:
 
-`OPENAI_API_KEY=your-openai-key-here
-PORT=3001
-NODE_ENV=development`
+`OPENAI_API_KEY=your-openai-key-here`
+`PORT=3001`
+`NODE_ENV=development`
 
 Start backend:
 
@@ -32,9 +32,9 @@ Start backend:
 
 **Step 2: Frontend Setup**
 
-`cd frontend
-npm install
-npm start`
+`cd frontend`
+`npm install`
+`npm start`
 
 **Step 3: Use the app**
 
